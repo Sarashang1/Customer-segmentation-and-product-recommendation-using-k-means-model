@@ -4,7 +4,8 @@ The data, content, and final delivery I shared on GitHub utilize mock-up data du
 ## 1. Introduction
 In the contemporary insurance market, understanding customer behavior and preferences has become paramount for ensuring effective marketing and sales strategies. As a data analyst at Applica Solutions, I took on a project for a prominent insurance company that aimed to delve deep into their customer data. The project sought to segment customers based on a variety of parameters and analyze the efficacy of different segmentation methods, to optimize the company's marketing campaigns.
 
-![image](https://github.com/Sarashang1/Customer-segmentation-and-product-recommendation-using-k-means-model/assets/115900641/58765131-43c7-407e-b039-4500192f6210)
+![WechatIMG1510](https://github.com/Sarashang1/Customer-segmentation-and-product-recommendation-using-k-means-model/assets/115900641/8c7b0721-0b51-47a6-b269-d1e317b2e97e)
+
 
 ## 2. Objective
 The primary objective of this project was:
