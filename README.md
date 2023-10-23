@@ -6,6 +6,8 @@ In the contemporary insurance market, understanding customer behavior and prefer
 
 ![WechatIMG1510](https://github.com/Sarashang1/Customer-segmentation-and-product-recommendation-using-k-means-model/assets/115900641/8c7b0721-0b51-47a6-b269-d1e317b2e97e)
 
+![Screenshot 2023-10-23 at 2 45 27 PM](https://github.com/Sarashang1/Customer-segmentation-and-product-recommendation-using-k-means-model/assets/115900641/81c22d4a-7b27-4230-9f7c-c525e519ae3b)
+
 
 ## 2. Objective
 The primary objective of this project was:
